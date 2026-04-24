@@ -1,0 +1,4 @@
+route_id,origin,destination,base_profit,time_hours
+R01,Capital,Black Market,1500,8
+R02,Capital,Mines,800,4
+R03,Fishing Village,Capital,500,2

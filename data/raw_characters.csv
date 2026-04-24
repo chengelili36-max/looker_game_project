@@ -1,0 +1,5 @@
+char_id,char_name,rarity,logistics_bonus,base_cost
+C001,Aria,Red,1.5,500
+C002,Nyx,Gold,1.25,300
+C003,Blacksmith,Blue,1.05,100
+C004,Trader,Purple,1.15,200

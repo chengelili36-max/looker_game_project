@@ -1,0 +1,6 @@
+game_economy_dbt:
+  outputs:
+    dev:
+      type: duckdb
+      path: "game_db.duckdb"
+  target: dev
